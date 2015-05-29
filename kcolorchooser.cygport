@@ -6,3 +6,5 @@ RELEASE=1
 CATEGORY="Graphics"
 SUMMARY="KDE color selector"
 DESCRIPTION="Part of the KDE graphics suite"
+
+REQUIRES="kde-runtime"
